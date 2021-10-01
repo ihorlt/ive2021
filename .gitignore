@@ -22,4 +22,4 @@ jspm_packages/
 .env.test
 
 # web storm
-.idea
+.idea/
