@@ -1,0 +1,21 @@
+.list-items-cards .card .card-img-top-container {
+    min-height: 340px;
+}
+
+.vh-25 {
+    height: 25vh;
+}
+
+.bg-top-image {
+    background-image: url(../images/img-top-main.jpg);
+    height: 40vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+@media (min-width: 1400px) {
+    .bg-top-image {
+        height: 60vh;
+    }
+}
